@@ -14,7 +14,7 @@
     "@vue/compiler-sfc": "^3.2.22",
     "laravel-mix": "^6.0.41",
     "node-sass": "^7.0.3",
-    "postcss": "^8.3.11",
+    "postcss": "^8.5.31",
     "sass": "^1.54.4",
     "sass-loader": "^10.3.1",
     "tailwindcss": "^3.1.8",
